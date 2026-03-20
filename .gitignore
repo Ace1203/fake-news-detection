@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+.env
+fake_news_model/
+*.zip
